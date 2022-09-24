@@ -1,0 +1,19 @@
+.homePage {
+  width: 100vw;
+  height: 100vh;
+  color: var(--grey-1);
+  background-color: var(--grey-4);
+}
+
+.leftHomePage {
+  width: 267px;
+}
+
+.logoHomePage {
+  width: 150px;
+}
+
+.titleHomePage,
+.spanHomePage {
+  color: var(--grey-1);
+}

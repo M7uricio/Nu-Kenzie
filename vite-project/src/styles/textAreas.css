@@ -1,0 +1,26 @@
+.input-primary {
+  padding: 0.6875rem 1rem;
+  background-color: var(--grey-2);
+  outline: none;
+  border: none;
+  border-radius: 4px;
+}
+
+.input-primary:focus {
+  background-color: var(--grey-1);
+  outline: solid 2px var(--grey-4);
+}
+
+.select-primary {
+  padding: 0.6875rem 1rem;
+  background-color: var(--grey-2);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.select-primary:focus {
+  padding: 0.6875rem 1rem;
+  outline: solid 2px var(--grey-4);
+  background-color: var(--grey-1);
+}

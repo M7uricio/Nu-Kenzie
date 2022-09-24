@@ -1,0 +1,41 @@
+.emptyDescription {
+  width: 330px;
+  height: 13px;
+  margin-top: 25px;
+  margin-left: 15px;
+  background-color: var(--grey-2);
+}
+
+.emptyType {
+  width: 76px;
+  height: 13px;
+  margin-left: 15px;
+  background-color: var(--grey-2);
+}
+
+.transition {
+  border-radius: 5px;
+  background-color: var(--grey-1);
+}
+
+.enter {
+  width: 4px;
+  height: 87px;
+  background-color: var(--secondary);
+  border-radius: 5px 0 0 5px;
+}
+
+.exit {
+  width: 4px;
+  height: 87px;
+  background-color: var(--grey-2);
+  border-radius: 5px 0 0 5px;
+}
+
+.titleTransaction {
+  width: 330px;
+}
+
+.valueTransaction {
+  width: 100px;
+}

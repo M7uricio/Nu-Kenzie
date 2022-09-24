@@ -1,0 +1,13 @@
+.rightHomePage {
+  width: 100%;
+}
+
+.buttonsFilter {
+  width: 270px;
+}
+
+@media (min-width: 768px) {
+  .rightHomePage {
+    width: 560px;
+  }
+}

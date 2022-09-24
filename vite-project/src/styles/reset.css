@@ -1,0 +1,24 @@
+html,
+body,
+header,
+ul,
+li,
+img,
+p,
+h1,
+h2,
+h3,
+div,
+nav,
+a,
+section {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: #343a40;
+  font-size: 16px;
+  text-align: none;
+  box-sizing: border-box;
+  outline: none;
+  border: none;
+}
